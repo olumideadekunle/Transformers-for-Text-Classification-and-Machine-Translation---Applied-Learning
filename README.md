@@ -1,11 +1,7 @@
-## Files in Repository
+## NLP Files in Repository
 File	Description
-week5_transformers.ipynb	Main notebook for both assignments
-)
-requirements.txt	Dependencies list
-data/	Optional folder for custom fine-tuning dataset
-outputs/	Model checkpoints and evaluation results
-📈 Key Learnings
+
+Key Learnings
 
 Hugging Face simplifies fine tuning of large NLP models.
 
@@ -15,7 +11,7 @@ Domain-specific fine-tuning enhances translation accuracy.
 
 Evaluation metrics (Accuracy, BLEU) are essential for model validation.
 
-💡 Future Work
+ Future Work
 
 Expand fine-tuning dataset to multiple domains (finance, legal, etc.).
 
